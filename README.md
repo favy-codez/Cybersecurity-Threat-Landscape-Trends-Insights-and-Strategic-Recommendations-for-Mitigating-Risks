@@ -6,8 +6,8 @@ This dashboard presents a comprehensive overview of global cyber threats between
 ---
 
 ## Tools Used
-- **Microsoft Excel** — For data cleaning, pivot analysis, dashboards, and charts.
-- **Kaggle** — Source of raw dataset.
+**Microsoft Excel** — For data cleaning, pivot analysis, dashboards, and charts.
+
 ---
 
 ### Key Steps:
@@ -38,7 +38,7 @@ This dashboard presents a comprehensive overview of global cyber threats between
 ---
 
 ## 📂 Dataset
-**The data used for this analysis was sourced from Kaggle and can be found [here:](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata)**  
+**The data used for this analysis was sourced from Kaggle and can be found [here:](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)**  
 The dataset used for this analysis was sourced from Kaggle and includes:
 - Attack types
 - Targeted industries
